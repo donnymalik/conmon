@@ -58,6 +58,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <ul class="nav navbar-top-links pull-left">
                             <!--Messages Dropdown-->
                             <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<<<<<<< HEAD
                             <li class="dropdown">
                                 <a href="<?= base_url('dashboard/index') ?>">
                                 Dashboard 1
@@ -68,6 +69,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 Fuel Condition
                                 </a>
                             </li>
+=======
+
+>>>>>>> origin/master
                             <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
                             <!--End message dropdown-->
                             <!--Notification dropdown-->
